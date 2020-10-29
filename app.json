@@ -1,0 +1,26 @@
+{
+	"expo": {
+		"name": "TODO",
+		"slug": "TODO",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"spalsh": {
+			"image": "./assets/spalsh.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbacToCacheTimeout": 0
+		},
+		"assestBundlePatterns": {
+			"**/*"
+		},
+		"ios": {
+			"supportsTablet": true
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		}
+	}
+}
